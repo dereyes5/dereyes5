@@ -93,19 +93,14 @@ def build(t):
             rows.append(line(k, v, t))
 
     lh, y0 = 20, 30
-    art = "\n".join(f'<tspan x="15" y="{y0 + i * lh}">{escape(a)}</tspan>' for i, a in enumerate(ascii_art))
-    txt = "\n".join(f'<tspan x="390" y="{y0 + i * lh}">{r}</tspan>' for i, r in enumerate(rows))
+    art = "\n".join(f'<text x="15" y="{y0 + i * lh}" fill="{t["fg"]}" xml:space="preserve">{escape(a)}</text>' for i, a in enumerate(ascii_art))
+    txt = "\n".join(f'<text x="390" y="{y0 + i * lh}" fill="{t["fg"]}" xml:space="preserve">{r}</text>' for i, r in enumerate(rows))
     h = y0 + len(rows) * lh
     return f'''<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="{h}" viewBox="0 0 985 {h}" font-size="15px">
-<style>text, tspan {{white-space: pre;}}</style>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="{h}" viewBox="0 0 985 {h}" font-size="15px">
 <rect width="985" height="{h}" fill="{t["bg"]}" rx="15"/>
-<text fill="{t["fg"]}" class="ascii">
 {art}
-</text>
-<text fill="{t["fg"]}">
 {txt}
-</text>
 </svg>
 '''
 
