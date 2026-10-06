@@ -3,49 +3,26 @@
 <style>text, tspan {white-space: pre;}</style>
 <rect width="985px" height="510px" fill="#161b22" rx="15"/>
 <text fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                                    </tspan>
-<tspan x="15" y="50">                                    </tspan>
-<tspan x="15" y="70">                                    </tspan>
-<tspan x="15" y="90">                                    </tspan>
-<tspan x="15" y="110">                                    </tspan>
-<tspan x="15" y="130">                                    </tspan>
-<tspan x="15" y="150">                                    </tspan>
-<tspan x="15" y="170">                                    </tspan>
-<tspan x="15" y="190">                                    </tspan>
-<tspan x="15" y="210">                                    </tspan>
-<tspan x="15" y="230">
-              .,-:;//;:=,
-          . :H@@@MM@M#H/.,+%;,
-       ,/X+ +M@@M@MM%=,-%HMMM@X/,
-     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
-    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.
-  ,%MM@@MH ,@%=             .---=-=:=,.
-  =@#@@@MX.,                -%HX$$%%%:;
- =-./@M@M$                   .;@MMMM@MM:
- X@/ -$MM/                    . +MM@@@M$
-,@M@H: :@:                    . =X#@@@@-
-,@@@MMX, .                    /H- ;@M@M=
-.H@@@@M@+,                    %MM+..%#$.
- /MMMM@MMH/.                  XM@MH; =;
-  /%+%$XHH@$=              , .H@@@@MX,
-   .=--------.           -%H.,@@@@@MX,
-   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.
-     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=
-       =%@M@M#@$-.=$@MM@@@M; %M%=
-         ,:+$+-,/H#MMMMMMM@= =,
-               =++%%%%+/:-.
-</tspan>
-<tspan x="15" y="250">                                    </tspan>
-<tspan x="15" y="270">                                    </tspan>
-<tspan x="15" y="290">                                    </tspan>
-<tspan x="15" y="310">                                    </tspan>
-<tspan x="15" y="330">                                    </tspan>
-<tspan x="15" y="350">                                    </tspan>
-<tspan x="15" y="370">                                    </tspan>
-<tspan x="15" y="390">                                    </tspan>
-<tspan x="15" y="410">                                    </tspan>
-<tspan x="15" y="430">                                    </tspan>
-<tspan x="15" y="450">                                    </tspan>
+<tspan x="15" y="30">              .,-:;//;:=,               </tspan>
+<tspan x="15" y="50">          . :H@@@MM@M#H/.,+%;,          </tspan>
+<tspan x="15" y="70">       ,/X+ +M@@M@MM%=,-%HMMM@X/,      </tspan>
+<tspan x="15" y="90">     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-    </tspan>
+<tspan x="15" y="110">    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.  </tspan>
+<tspan x="15" y="130">  ,%MM@@MH ,@%=             .---=-=:=,. </tspan>
+<tspan x="15" y="150">  =@#@@@MX.,                -%HX$$%%%:; </tspan>
+<tspan x="15" y="170"> =-./@M@M$                   .;@MMMM@MM:</tspan>
+<tspan x="15" y="190"> X@/ -$MM/                    . +MM@@@M$</tspan>
+<tspan x="15" y="210">,@M@H: :@:                    . =X#@@@@-</tspan>
+<tspan x="15" y="230">,@@@MMX, .                    /H- ;@M@M=</tspan>
+<tspan x="15" y="250">.H@@@@M@+,                    %MM+..%#$.</tspan>
+<tspan x="15" y="270"> /MMMM@MMH/.                  XM@MH; =; </tspan>
+<tspan x="15" y="290">  /%+%$XHH@$=              , .H@@@@MX,  </tspan>
+<tspan x="15" y="310">   .=--------.           -%H.,@@@@@MX,  </tspan>
+<tspan x="15" y="330">   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.  </tspan>
+<tspan x="15" y="350">     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=    </tspan>
+<tspan x="15" y="370">       =%@M@M#@$-.=$@MM@@@M; %M%=       </tspan>
+<tspan x="15" y="390">         ,:+$+-,/H#MMMMMMM@= =,         </tspan>
+<tspan x="15" y="410">               =++%%%%+/:-.             </tspan>
 </text>
 <text fill="#c9d1d9">
 <tspan x="390" y="30"><tspan fill="#c9d1d9">david@reyes ———————————————————————————————————————————-—-</tspan></tspan>

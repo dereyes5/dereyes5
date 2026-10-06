@@ -35,29 +35,28 @@ info = [
     ("stats2", ""),
 ]
 
-ascii_art = [" " * 36] * 22
-ascii_art[10] = """
-              .,-:;//;:=,
-          . :H@@@MM@M#H/.,+%;,
-       ,/X+ +M@@M@MM%=,-%HMMM@X/,
-     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
-    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.
-  ,%MM@@MH ,@%=             .---=-=:=,.
-  =@#@@@MX.,                -%HX$$%%%:;
- =-./@M@M$                   .;@MMMM@MM:
- X@/ -$MM/                    . +MM@@@M$
-,@M@H: :@:                    . =X#@@@@-
-,@@@MMX, .                    /H- ;@M@M=
-.H@@@@M@+,                    %MM+..%#$.
- /MMMM@MMH/.                  XM@MH; =;
-  /%+%$XHH@$=              , .H@@@@MX,
-   .=--------.           -%H.,@@@@@MX,
-   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.
-     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=
-       =%@M@M#@$-.=$@MM@@@M; %M%=
-         ,:+$+-,/H#MMMMMMM@= =,
-               =++%%%%+/:-.
-"""
+ascii_art = [
+    "              .,-:;//;:=,               ",
+    "          . :H@@@MM@M#H/.,+%;,          ",
+    "       ,/X+ +M@@M@MM%=,-%HMMM@X/,      ",
+    "     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-    ",
+    "    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.  ",
+    "  ,%MM@@MH ,@%=             .---=-=:=,. ",
+    "  =@#@@@MX.,                -%HX$$%%%:; ",
+    " =-./@M@M$                   .;@MMMM@MM:",
+    " X@/ -$MM/                    . +MM@@@M$",
+    ",@M@H: :@:                    . =X#@@@@-",
+    ",@@@MMX, .                    /H- ;@M@M=",
+    ".H@@@@M@+,                    %MM+..%#$.",
+    " /MMMM@MMH/.                  XM@MH; =; ",
+    "  /%+%$XHH@$=              , .H@@@@MX,  ",
+    "   .=--------.           -%H.,@@@@@MX,  ",
+    "   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.  ",
+    "     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=    ",
+    "       =%@M@M#@$-.=$@MM@@@M; %M%=       ",
+    "         ,:+$+-,/H#MMMMMMM@= =,         ",
+    "               =++%%%%+/:-.             ",
+]
 
 THEMES = {
     "dark": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", val="#a5d6ff", dot="#616e7f", add="#3fb950", rem="#f85149"),
