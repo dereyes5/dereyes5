@@ -97,9 +97,9 @@ def build(t):
     txt = "\n".join(f'<tspan x="390" y="{y0 + i * lh}">{r}</tspan>' for i, r in enumerate(rows))
     h = y0 + len(rows) * lh
     return f'''<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985px" height="{h}px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="{h}" viewBox="0 0 985 {h}" font-size="15px">
 <style>text, tspan {{white-space: pre;}}</style>
-<rect width="985px" height="{h}px" fill="{t["bg"]}" rx="15"/>
+<rect width="985" height="{h}" fill="{t["bg"]}" rx="15"/>
 <text fill="{t["fg"]}" class="ascii">
 {art}
 </text>

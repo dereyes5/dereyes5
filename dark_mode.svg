@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985px" height="510px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="510" viewBox="0 0 985 510" font-size="15px">
 <style>text, tspan {white-space: pre;}</style>
-<rect width="985px" height="510px" fill="#161b22" rx="15"/>
+<rect width="985" height="510" fill="#161b22" rx="15"/>
 <text fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">              .,-:;//;:=,               </tspan>
 <tspan x="15" y="50">          . :H@@@MM@M#H/.,+%;,          </tspan>
