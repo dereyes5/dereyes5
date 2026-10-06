@@ -86,7 +86,7 @@ def build(t):
             left = f'.&#160;<tspan fill="{t["key"]}">Repos</tspan>:<tspan fill="{t["dot"]}">&#160;....&#160;</tspan><tspan fill="{t["val"]}">27</tspan>&#160;{{<tspan fill="{t["key"]}">Private</tspan>:&#160;<tspan fill="{t["val"]}">7</tspan>}}&#160;|&#160;<tspan fill="{t["key"]}">Stars</tspan>:<tspan fill="{t["dot"]}">&#160;.........&#160;</tspan><tspan fill="{t["val"]}">1</tspan>'
             rows.append(left)
         elif k == "stats2":
-            rows.append(f'.&#160;<tspan fill="{t["key"]}">Commits</tspan>:<tspan fill="{t["dot"]}">&#160;..............&#160;</tspan><tspan fill="{t["val"]}">XXX</tspan>&#160;|&#160;<tspan fill="{t["key"]}">Followers</tspan>:<tspan fill="{t["dot"]}">&#160;......&#160;</tspan><tspan fill="{t["val"]}">2</tspan>')
+            rows.append(f'.&#160;<tspan fill="{t["key"]}">Commits</tspan>:<tspan fill="{t["dot"]}">&#160;.............&#160;</tspan><tspan fill="{t["val"]}">2156</tspan>&#160;|&#160;<tspan fill="{t["key"]}">Followers</tspan>:<tspan fill="{t["dot"]}">&#160;......&#160;</tspan><tspan fill="{t["val"]}">2</tspan>')
         elif k == "":
             rows.append(f'<tspan fill="{t["dot"]}">.</tspan>')
         else:
@@ -95,7 +95,8 @@ def build(t):
     lh, y0 = 20, 30
     def nbsp(s):
         return s.replace(" ", "&#160;")
-    art = "\n".join(f'<text x="15" y="{y0 + i * lh}" fill="{t["fg"]}">{nbsp(escape(a))}</text>' for i, a in enumerate(ascii_art))
+    art_offset = (len(rows) - len(ascii_art)) // 2
+    art = "\n".join(f'<text x="15" y="{y0 + (i + art_offset) * lh}" fill="{t["fg"]}">{nbsp(escape(a))}</text>' for i, a in enumerate(ascii_art))
     txt = "\n".join(f'<text x="390" y="{y0 + i * lh}" fill="{t["fg"]}">{r}</text>' for i, r in enumerate(rows))
     h = y0 + len(rows) * lh
     return f'''<?xml version="1.0" encoding="UTF-8"?>
