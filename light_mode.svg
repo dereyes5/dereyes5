@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="510" viewBox="0 0 985 510" font-size="15px">
 <rect width="985" height="510" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" xml:space="preserve">              .,-:;//;:=,               </text>
-<text x="15" y="50" fill="#24292f" xml:space="preserve">          . :H@@@MM@M#H/.,+%;,          </text>
-<text x="15" y="70" fill="#24292f" xml:space="preserve">       ,/X+ +M@@M@MM%=,-%HMMM@X/,      </text>
-<text x="15" y="90" fill="#24292f" xml:space="preserve">     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-    </text>
-<text x="15" y="110" fill="#24292f" xml:space="preserve">    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.  </text>
-<text x="15" y="130" fill="#24292f" xml:space="preserve">  ,%MM@@MH ,@%=             .---=-=:=,. </text>
-<text x="15" y="150" fill="#24292f" xml:space="preserve">  =@#@@@MX.,                -%HX$$%%%:; </text>
-<text x="15" y="170" fill="#24292f" xml:space="preserve"> =-./@M@M$                   .;@MMMM@MM:</text>
-<text x="15" y="190" fill="#24292f" xml:space="preserve"> X@/ -$MM/                    . +MM@@@M$</text>
-<text x="15" y="210" fill="#24292f" xml:space="preserve">,@M@H: :@:                    . =X#@@@@-</text>
-<text x="15" y="230" fill="#24292f" xml:space="preserve">,@@@MMX, .                    /H- ;@M@M=</text>
-<text x="15" y="250" fill="#24292f" xml:space="preserve">.H@@@@M@+,                    %MM+..%#$.</text>
-<text x="15" y="270" fill="#24292f" xml:space="preserve"> /MMMM@MMH/.                  XM@MH; =; </text>
-<text x="15" y="290" fill="#24292f" xml:space="preserve">  /%+%$XHH@$=              , .H@@@@MX,  </text>
-<text x="15" y="310" fill="#24292f" xml:space="preserve">   .=--------.           -%H.,@@@@@MX,  </text>
-<text x="15" y="330" fill="#24292f" xml:space="preserve">   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.  </text>
-<text x="15" y="350" fill="#24292f" xml:space="preserve">     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=    </text>
-<text x="15" y="370" fill="#24292f" xml:space="preserve">       =%@M@M#@$-.=$@MM@@@M; %M%=       </text>
-<text x="15" y="390" fill="#24292f" xml:space="preserve">         ,:+$+-,/H#MMMMMMM@= =,         </text>
-<text x="15" y="410" fill="#24292f" xml:space="preserve">               =++%%%%+/:-.             </text>
-<text x="390" y="30" fill="#24292f" xml:space="preserve"><tspan fill="#24292f">david@reyes ———————————————————————————————————————————-—-</tspan></text>
-<text x="390" y="50" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">OS</tspan>:<tspan fill="#c2cfde"> ............................ </tspan><tspan fill="#0a3069">Ubuntu 26.04, Windows 11</tspan></text>
-<text x="390" y="70" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Uptime</tspan>:<tspan fill="#c2cfde"> ..................... </tspan><tspan fill="#0a3069">24 years, 2 months, 20 days</tspan></text>
-<text x="390" y="90" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Host</tspan>:<tspan fill="#c2cfde"> ....................................... </tspan><tspan fill="#0a3069">Tecnihealth</tspan></text>
-<text x="390" y="110" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Kernel</tspan>:<tspan fill="#c2cfde"> .............................. </tspan><tspan fill="#0a3069">Software Developer</tspan></text>
-<text x="390" y="130" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">IDE</tspan>:<tspan fill="#c2cfde"> ............................... </tspan><tspan fill="#0a3069">VS Code, Claude Code</tspan></text>
-<text x="390" y="150" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Education</tspan>:<tspan fill="#c2cfde"> ............................... </tspan><tspan fill="#0a3069">ESPE - Ing. TI</tspan></text>
-<text x="390" y="170" fill="#24292f" xml:space="preserve"><tspan fill="#c2cfde">.</tspan></text>
-<text x="390" y="190" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Languages.Programming</tspan>:<tspan fill="#c2cfde">  </tspan><tspan fill="#0a3069">PHP, JavaScript, TypeScript, Java</tspan></text>
-<text x="390" y="210" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Languages.Computer</tspan>:<tspan fill="#c2cfde"> ....... </tspan><tspan fill="#0a3069">Python, HTML, CSS, SQL, Shell</tspan></text>
-<text x="390" y="230" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Languages.Real</tspan>:<tspan fill="#c2cfde"> ........................ </tspan><tspan fill="#0a3069">Spanish, English</tspan></text>
-<text x="390" y="250" fill="#24292f" xml:space="preserve"><tspan fill="#c2cfde">.</tspan></text>
-<text x="390" y="270" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Frameworks.Backend</tspan>:<tspan fill="#c2cfde"> ....... </tspan><tspan fill="#0a3069">Laravel, Spring Boot, Node.js</tspan></text>
-<text x="390" y="290" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Frameworks.Frontend</tspan>:<tspan fill="#c2cfde"> .............. </tspan><tspan fill="#0a3069">Vue, React, Bootstrap</tspan></text>
-<text x="390" y="310" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Infra</tspan>:<tspan fill="#c2cfde"> ................ </tspan><tspan fill="#0a3069">PostgreSQL, Docker, Nginx, Apache</tspan></text>
-<text x="390" y="330" fill="#24292f" xml:space="preserve"><tspan fill="#c2cfde">.</tspan></text>
-<text x="390" y="350" fill="#24292f" xml:space="preserve">- Contact ———————————————————————————————————————————————-—-</text>
-<text x="390" y="370" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Email</tspan>:<tspan fill="#c2cfde"> ......................... </tspan><tspan fill="#0a3069">estebanreyes36@gmail.com</tspan></text>
-<text x="390" y="390" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">LinkedIn</tspan>:<tspan fill="#c2cfde"> .......... </tspan><tspan fill="#0a3069">linkedin.com/in/david-reyes-b20a2680</tspan></text>
-<text x="390" y="410" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Hobbies</tspan>:<tspan fill="#c2cfde"> ......................................... </tspan><tspan fill="#0a3069">Gaming</tspan></text>
-<text x="390" y="430" fill="#24292f" xml:space="preserve"><tspan fill="#c2cfde">.</tspan></text>
-<text x="390" y="450" fill="#24292f" xml:space="preserve">- GitHub Stats ——————————————————————————————————————————-—-</text>
-<text x="390" y="470" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Repos</tspan>:<tspan fill="#c2cfde"> .... </tspan><tspan fill="#0a3069">27</tspan> {<tspan fill="#953800">Private</tspan>: <tspan fill="#0a3069">7</tspan>} | <tspan fill="#953800">Stars</tspan>:<tspan fill="#c2cfde"> ......... </tspan><tspan fill="#0a3069">1</tspan></text>
-<text x="390" y="490" fill="#24292f" xml:space="preserve">. <tspan fill="#953800">Commits</tspan>:<tspan fill="#c2cfde"> .............. </tspan><tspan fill="#0a3069">XXX</tspan> | <tspan fill="#953800">Followers</tspan>:<tspan fill="#c2cfde"> ...... </tspan><tspan fill="#0a3069">2</tspan></text>
+<text x="15" y="30" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.,-:;//;:=,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="15" y="50" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.&#160;:H@@@MM@M#H/.,+%;,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="15" y="70" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;,/X+&#160;+M@@M@MM%=,-%HMMM@X/,&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="15" y="90" fill="#24292f">&#160;&#160;&#160;&#160;&#160;-+@MM;&#160;$M@@MH+-,;XMMMM@MMMM@+-&#160;&#160;&#160;&#160;</text>
+<text x="15" y="110" fill="#24292f">&#160;&#160;&#160;&#160;;@M@@M-&#160;XM@X;.&#160;-+XXXXXHHH@M@M#@/.&#160;&#160;</text>
+<text x="15" y="130" fill="#24292f">&#160;&#160;,%MM@@MH&#160;,@%=&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.---=-=:=,.&#160;</text>
+<text x="15" y="150" fill="#24292f">&#160;&#160;=@#@@@MX.,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-%HX$$%%%:;&#160;</text>
+<text x="15" y="170" fill="#24292f">&#160;=-./@M@M$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.;@MMMM@MM:</text>
+<text x="15" y="190" fill="#24292f">&#160;X@/&#160;-$MM/&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.&#160;+MM@@@M$</text>
+<text x="15" y="210" fill="#24292f">,@M@H:&#160;:@:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.&#160;=X#@@@@-</text>
+<text x="15" y="230" fill="#24292f">,@@@MMX,&#160;.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;/H-&#160;;@M@M=</text>
+<text x="15" y="250" fill="#24292f">.H@@@@M@+,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;%MM+..%#$.</text>
+<text x="15" y="270" fill="#24292f">&#160;/MMMM@MMH/.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;XM@MH;&#160;=;&#160;</text>
+<text x="15" y="290" fill="#24292f">&#160;&#160;/%+%$XHH@$=&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,&#160;.H@@@@MX,&#160;&#160;</text>
+<text x="15" y="310" fill="#24292f">&#160;&#160;&#160;.=--------.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-%H.,@@@@@MX,&#160;&#160;</text>
+<text x="15" y="330" fill="#24292f">&#160;&#160;&#160;.%MM@@@HHHXX$$$%+-&#160;.:$MMX&#160;=M@@MM%.&#160;&#160;</text>
+<text x="15" y="350" fill="#24292f">&#160;&#160;&#160;&#160;&#160;=XMMM@MM@MM#H;,-+HMM@M+&#160;/MMMX=&#160;&#160;&#160;&#160;</text>
+<text x="15" y="370" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;=%@M@M#@$-.=$@MM@@@M;&#160;%M%=&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="15" y="390" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;,:+$+-,/H#MMMMMMM@=&#160;=,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="15" y="410" fill="#24292f">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;=++%%%%+/:-.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="390" y="30" fill="#24292f"><tspan fill="#24292f">david@reyes&#160;———————————————————————————————————————————-—-</tspan></text>
+<text x="390" y="50" fill="#24292f">.&#160;<tspan fill="#953800">OS</tspan>:<tspan fill="#c2cfde">&#160;............................&#160;</tspan><tspan fill="#0a3069">Ubuntu 26.04, Windows 11</tspan></text>
+<text x="390" y="70" fill="#24292f">.&#160;<tspan fill="#953800">Uptime</tspan>:<tspan fill="#c2cfde">&#160;.....................&#160;</tspan><tspan fill="#0a3069">24 years, 2 months, 20 days</tspan></text>
+<text x="390" y="90" fill="#24292f">.&#160;<tspan fill="#953800">Host</tspan>:<tspan fill="#c2cfde">&#160;.......................................&#160;</tspan><tspan fill="#0a3069">Tecnihealth</tspan></text>
+<text x="390" y="110" fill="#24292f">.&#160;<tspan fill="#953800">Kernel</tspan>:<tspan fill="#c2cfde">&#160;..............................&#160;</tspan><tspan fill="#0a3069">Software Developer</tspan></text>
+<text x="390" y="130" fill="#24292f">.&#160;<tspan fill="#953800">IDE</tspan>:<tspan fill="#c2cfde">&#160;...............................&#160;</tspan><tspan fill="#0a3069">VS Code, Claude Code</tspan></text>
+<text x="390" y="150" fill="#24292f">.&#160;<tspan fill="#953800">Education</tspan>:<tspan fill="#c2cfde">&#160;...............................&#160;</tspan><tspan fill="#0a3069">ESPE - Ing. TI</tspan></text>
+<text x="390" y="170" fill="#24292f"><tspan fill="#c2cfde">.</tspan></text>
+<text x="390" y="190" fill="#24292f">.&#160;<tspan fill="#953800">Languages.Programming</tspan>:<tspan fill="#c2cfde">&#160;&#160;</tspan><tspan fill="#0a3069">PHP, JavaScript, TypeScript, Java</tspan></text>
+<text x="390" y="210" fill="#24292f">.&#160;<tspan fill="#953800">Languages.Computer</tspan>:<tspan fill="#c2cfde">&#160;.......&#160;</tspan><tspan fill="#0a3069">Python, HTML, CSS, SQL, Shell</tspan></text>
+<text x="390" y="230" fill="#24292f">.&#160;<tspan fill="#953800">Languages.Real</tspan>:<tspan fill="#c2cfde">&#160;........................&#160;</tspan><tspan fill="#0a3069">Spanish, English</tspan></text>
+<text x="390" y="250" fill="#24292f"><tspan fill="#c2cfde">.</tspan></text>
+<text x="390" y="270" fill="#24292f">.&#160;<tspan fill="#953800">Frameworks.Backend</tspan>:<tspan fill="#c2cfde">&#160;.......&#160;</tspan><tspan fill="#0a3069">Laravel, Spring Boot, Node.js</tspan></text>
+<text x="390" y="290" fill="#24292f">.&#160;<tspan fill="#953800">Frameworks.Frontend</tspan>:<tspan fill="#c2cfde">&#160;..............&#160;</tspan><tspan fill="#0a3069">Vue, React, Bootstrap</tspan></text>
+<text x="390" y="310" fill="#24292f">.&#160;<tspan fill="#953800">Infra</tspan>:<tspan fill="#c2cfde">&#160;................&#160;</tspan><tspan fill="#0a3069">PostgreSQL, Docker, Nginx, Apache</tspan></text>
+<text x="390" y="330" fill="#24292f"><tspan fill="#c2cfde">.</tspan></text>
+<text x="390" y="350" fill="#24292f">-&#160;Contact&#160;———————————————————————————————————————————————-—-</text>
+<text x="390" y="370" fill="#24292f">.&#160;<tspan fill="#953800">Email</tspan>:<tspan fill="#c2cfde">&#160;.........................&#160;</tspan><tspan fill="#0a3069">estebanreyes36@gmail.com</tspan></text>
+<text x="390" y="390" fill="#24292f">.&#160;<tspan fill="#953800">LinkedIn</tspan>:<tspan fill="#c2cfde">&#160;..........&#160;</tspan><tspan fill="#0a3069">linkedin.com/in/david-reyes-b20a2680</tspan></text>
+<text x="390" y="410" fill="#24292f">.&#160;<tspan fill="#953800">Hobbies</tspan>:<tspan fill="#c2cfde">&#160;.........................................&#160;</tspan><tspan fill="#0a3069">Gaming</tspan></text>
+<text x="390" y="430" fill="#24292f"><tspan fill="#c2cfde">.</tspan></text>
+<text x="390" y="450" fill="#24292f">-&#160;GitHub Stats&#160;——————————————————————————————————————————-—-</text>
+<text x="390" y="470" fill="#24292f">.&#160;<tspan fill="#953800">Repos</tspan>:<tspan fill="#c2cfde">&#160;....&#160;</tspan><tspan fill="#0a3069">27</tspan>&#160;{<tspan fill="#953800">Private</tspan>:&#160;<tspan fill="#0a3069">7</tspan>}&#160;|&#160;<tspan fill="#953800">Stars</tspan>:<tspan fill="#c2cfde">&#160;.........&#160;</tspan><tspan fill="#0a3069">1</tspan></text>
+<text x="390" y="490" fill="#24292f">.&#160;<tspan fill="#953800">Commits</tspan>:<tspan fill="#c2cfde">&#160;..............&#160;</tspan><tspan fill="#0a3069">XXX</tspan>&#160;|&#160;<tspan fill="#953800">Followers</tspan>:<tspan fill="#c2cfde">&#160;......&#160;</tspan><tspan fill="#0a3069">2</tspan></text>
 </svg>

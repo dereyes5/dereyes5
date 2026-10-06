@@ -66,13 +66,13 @@ THEMES = {
 
 def line(key, val, t):
     dots = W - len(key) - len(val) - 4
-    return (f'. <tspan fill="{t["key"]}">{escape(key)}</tspan>:'
-            f'<tspan fill="{t["dot"]}"> {"." * dots} </tspan>'
+    return (f'.&#160;<tspan fill="{t["key"]}">{escape(key)}</tspan>:'
+            f'<tspan fill="{t["dot"]}">&#160;{"." * dots}&#160;</tspan>'
             f'<tspan fill="{t["val"]}">{escape(val)}</tspan>')
 
 
 def header(text):
-    return f'{escape(text)} {"—" * (W - len(text) - 4)}-—-'
+    return f'{escape(text)}&#160;{"—" * (W - len(text) - 4)}-—-'
 
 
 def build(t):
@@ -81,20 +81,22 @@ def build(t):
         if k == "title":
             rows.append(f'<tspan fill="{t["fg"]}">{header(v)}</tspan>')
         elif k == "section":
-            rows.append(f'- {header(v)}')
+            rows.append(f'-&#160;{header(v)}')
         elif k == "stats1":
-            left = f'. <tspan fill="{t["key"]}">Repos</tspan>:<tspan fill="{t["dot"]}"> .... </tspan><tspan fill="{t["val"]}">27</tspan> {{<tspan fill="{t["key"]}">Private</tspan>: <tspan fill="{t["val"]}">7</tspan>}} | <tspan fill="{t["key"]}">Stars</tspan>:<tspan fill="{t["dot"]}"> ......... </tspan><tspan fill="{t["val"]}">1</tspan>'
+            left = f'.&#160;<tspan fill="{t["key"]}">Repos</tspan>:<tspan fill="{t["dot"]}">&#160;....&#160;</tspan><tspan fill="{t["val"]}">27</tspan>&#160;{{<tspan fill="{t["key"]}">Private</tspan>:&#160;<tspan fill="{t["val"]}">7</tspan>}}&#160;|&#160;<tspan fill="{t["key"]}">Stars</tspan>:<tspan fill="{t["dot"]}">&#160;.........&#160;</tspan><tspan fill="{t["val"]}">1</tspan>'
             rows.append(left)
         elif k == "stats2":
-            rows.append(f'. <tspan fill="{t["key"]}">Commits</tspan>:<tspan fill="{t["dot"]}"> .............. </tspan><tspan fill="{t["val"]}">XXX</tspan> | <tspan fill="{t["key"]}">Followers</tspan>:<tspan fill="{t["dot"]}"> ...... </tspan><tspan fill="{t["val"]}">2</tspan>')
+            rows.append(f'.&#160;<tspan fill="{t["key"]}">Commits</tspan>:<tspan fill="{t["dot"]}">&#160;..............&#160;</tspan><tspan fill="{t["val"]}">XXX</tspan>&#160;|&#160;<tspan fill="{t["key"]}">Followers</tspan>:<tspan fill="{t["dot"]}">&#160;......&#160;</tspan><tspan fill="{t["val"]}">2</tspan>')
         elif k == "":
             rows.append(f'<tspan fill="{t["dot"]}">.</tspan>')
         else:
             rows.append(line(k, v, t))
 
     lh, y0 = 20, 30
-    art = "\n".join(f'<text x="15" y="{y0 + i * lh}" fill="{t["fg"]}" xml:space="preserve">{escape(a)}</text>' for i, a in enumerate(ascii_art))
-    txt = "\n".join(f'<text x="390" y="{y0 + i * lh}" fill="{t["fg"]}" xml:space="preserve">{r}</text>' for i, r in enumerate(rows))
+    def nbsp(s):
+        return s.replace(" ", "&#160;")
+    art = "\n".join(f'<text x="15" y="{y0 + i * lh}" fill="{t["fg"]}">{nbsp(escape(a))}</text>' for i, a in enumerate(ascii_art))
+    txt = "\n".join(f'<text x="390" y="{y0 + i * lh}" fill="{t["fg"]}">{r}</text>' for i, r in enumerate(rows))
     h = y0 + len(rows) * lh
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985" height="{h}" viewBox="0 0 985 {h}" font-size="15px">
